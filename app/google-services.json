@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "211782069903",
+    "firebase_url": "https://kong2-cba9a.firebaseio.com",
+    "project_id": "kong2-cba9a",
+    "storage_bucket": "kong2-cba9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211782069903:android:9b82a473875a0d1a",
+        "android_client_info": {
+          "package_name": "com.example.kyungminpark.kong2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211782069903-jvdgnt2kg6o3vom1nvr1ne9fkg1e65p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kyungminpark.kong2",
+            "certificate_hash": "28fa72c9fb60e2a3f7040b1eac20d3919bd00895"
+          }
+        },
+        {
+          "client_id": "211782069903-ad7uetlqska8iuuci0qe9m9kuilltsge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutJLfNV2nI1U7_li6jonA4zlQ3MQfwyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211782069903-ad7uetlqska8iuuci0qe9m9kuilltsge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

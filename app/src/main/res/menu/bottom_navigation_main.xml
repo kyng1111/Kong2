@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_question"
+        android:icon="@drawable/question"
+        android:title="Question"/>
+    <item
+        android:id="@+id/action_answer"
+        android:icon="@drawable/answer"
+        android:title="Answer"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/account"
+        android:title="Account"/>
+
+</menu>
